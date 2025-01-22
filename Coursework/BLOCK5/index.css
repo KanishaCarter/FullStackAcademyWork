@@ -1,0 +1,21 @@
+body {
+    background-color: orange;
+}
+
+header {
+    font-size: 75px;
+    color: green;
+    text-align: center;
+    margin-top: 40px;
+
+}
+
+h1 {
+    text-decoration: underline;
+    color: forestgreen;
+}
+
+img {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
