@@ -1,0 +1,67 @@
+header {
+    background-color: darkblue;
+    border: 10px solid pink;
+}
+body {
+    background-color: skyblue;
+}
+section {
+    size: 100px;
+    background-color: rgb(252, 167, 181);
+    border: 5px 5px 5px 5px;
+    padding: 50px 50px 20px 20px;
+    margin: 50px 50px 30px 30px;
+    border: solid gray;
+}
+div {
+    padding: 10px;
+    border: 5px solid rgb(172, 12, 172);
+    background-color: rgb(221, 61, 141);
+    margin-right: 300px;
+}
+h1 {
+    font-style: italic;
+    color: whitesmoke;
+    background-color: rgb(209, 107, 124);
+    font-size: 40px;
+    border: 5px solid blue;
+    padding: 10px;
+    display: inline-block;
+}
+h2 {
+    font-style: italic;
+    text-decoration: underline;
+    color: whitesmoke;
+    background-color: rgb(209, 107, 124);
+
+}
+h3 {
+    text-align: center;
+    font-size: 23px;
+    font-style: italic;
+    text-decoration: underline;
+    color: whitesmoke;
+    background-color: rgb(209, 107, 124);
+}
+#pantry {
+    height: 175px;
+    width: 200px;
+}
+#pantry-image {
+    margin-left: 90px;
+    padding-left: 70px;
+    margin-right: 50px;
+    padding-right: 75px;
+    padding-bottom: 65px;
+}
+#freezer {
+    height: 175px;
+    width: 200px;
+}
+#freezer-image {
+    margin-left: 165px;
+    padding-left: 65px;
+    margin-right: 50px;
+    padding-right: 75px;
+    padding-bottom: 65px;
+}
